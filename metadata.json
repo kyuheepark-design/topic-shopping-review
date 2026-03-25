@@ -1,0 +1,5 @@
+{
+  "name": "Keyword Analysis Infographic Dashboard",
+  "description": "LDA 및 NMF 토픽 분석 결과를 바탕으로 한 비즈니스 인사이트 및 인포그래픽 대시보드",
+  "requestFramePermissions": []
+}
